@@ -1673,6 +1673,28 @@ img {
   .single-web-icon:hover {
     box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.15); }
 
+
+/* :: 3.5.0 Preloader */
+.preloader {
+  background-color: #ffffff;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999; }
+.preloader .circle-preloader {
+  -webkit-animation: spin 900ms infinite linear;
+  animation: spin 900ms infinite linear; }
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg); } }
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg); } }
 /* ====== The End ====== */
 
 /*# sourceMappingURL=style.css.map */
