@@ -623,8 +623,9 @@ img {
     -webkit-transform: scaleX(1);
     transform: scaleX(1); } }
 .single-hero-slide .slide-img {
-  -webkit-animation: slide 12s linear infinite;
-  animation: slide 12s linear infinite; }
+  /*-webkit-animation: slide 12s linear infinite;*/
+  /*animation: slide 12s linear infinite; */
+}
 
 @-webkit-keyframes slide {
   0% {
