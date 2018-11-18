@@ -134,7 +134,7 @@ return t=a?function(t){return t&&a(r(t))}:function(t){return t&&r(t)}}function e
             openCloseSpeed: 350,
             megaopenCloseSpeed: 700,
             alwaysHidden: false,
-            openMobileMenu: 'left',
+            openMobileMenu: 'right',
             dropdownRtl: false,
             stickyNav: false,
             stickyFooterNav: false

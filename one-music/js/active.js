@@ -31,7 +31,9 @@
             autoplayTimeout: 7000,
             smartSpeed: 1000,
             animateIn: 'fadeIn',
-            animateOut: 'fadeOut'
+            animateOut: 'fadeOut',
+            touchDrag: false,
+            mouseDrag: false,
         });
 
         welcomeSlide.on('translate.owl.carousel', function () {
