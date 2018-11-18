@@ -577,7 +577,7 @@ img {
       text-transform: capitalize;
       letter-spacing: 30px;
       overflow: hidden; }
-      .single-hero-slide .hero-slides-content h2 span {
+      .single-hero-slide .hero-slides-content h2 span{
         position: absolute;
         top: 0;
         width: 100%;
@@ -585,7 +585,8 @@ img {
         left: 0;
         color: rgba(255, 255, 255, 0.15);
         -webkit-animation: textsonar 6s linear infinite;
-        animation: textsonar 6s linear infinite; }
+        animation: textsonar 6s linear infinite;
+      }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .single-hero-slide .hero-slides-content h2 {
           letter-spacing: 15px;
