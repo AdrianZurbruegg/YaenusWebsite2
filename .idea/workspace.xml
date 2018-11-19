@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="68368df1-b50f-414a-ba13-6a63cc683a6a" name="Default" comment="pulse effect removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-music/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-music/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/one-music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/one-music/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,24 +63,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/one-music/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="119" column="9" lean-forward="true" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
+            <state relative-caret-position="222">
+              <caret line="835" column="33" lean-forward="true" selection-start-line="835" selection-start-column="33" selection-end-line="835" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/one-music/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1886">
+              <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/one-music/blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/one-music/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="613" column="33" lean-forward="true" selection-start-line="613" selection-start-column="33" selection-end-line="613" selection-end-column="33" />
+            <state relative-caret-position="29155">
+              <caret line="1715" selection-start-line="1715" selection-end-line="1715" />
             </state>
           </provider>
         </entry>
@@ -95,10 +117,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>compact-disc</find>
-      <find>preloader d-flex align-items-center justify-content-center</find>
-      <find>preloader</find>
-      <find>hero-slid</find>
       <find>transform</find>
       <find>translate3d</find>
       <find>openMobileMenu</find>
@@ -120,8 +138,15 @@
       <find>slide-img</find>
       <find>single-her</find>
       <find>data-animation=&quot;fadeInUp&quot; data-delay=&quot;100ms&quot;</find>
-      <find>span</find>
       <find>textsonar</find>
+      <find>classy-nav</find>
+      <find>span</find>
+      <find>bg-img</find>
+      <find>oneMusicNav</find>
+      <find>navbarToggler</find>
+      <find>classy-menu</find>
+      <find>classynav</find>
+      <find>fadeInUp</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Adrian Zurbrügg\PhpstormProjects\YaenusWebsite2</dir>
@@ -149,8 +174,10 @@
         <option value="$PROJECT_DIR$/one-music/css/animate.css" />
         <option value="$PROJECT_DIR$/one-music/js/active.js" />
         <option value="$PROJECT_DIR$/one-music/scss/style.scss" />
-        <option value="$PROJECT_DIR$/one-music/index.html" />
         <option value="$PROJECT_DIR$/one-music/style.css" />
+        <option value="$PROJECT_DIR$/one-music/blog.html" />
+        <option value="$PROJECT_DIR$/one-music/contact.html" />
+        <option value="$PROJECT_DIR$/one-music/index.html" />
       </list>
     </option>
   </component>
@@ -160,8 +187,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -177,37 +207,12 @@
           <expand>
             <path>
               <item name="YaenusWebsite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YaenusWebsite2" type="462c0819:PsiDirectoryNode" />
+              <item name="YaenusWebsite2" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="YaenusWebsite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YaenusWebsite2" type="462c0819:PsiDirectoryNode" />
-              <item name="one-music" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YaenusWebsite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YaenusWebsite2" type="462c0819:PsiDirectoryNode" />
-              <item name="one-music" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YaenusWebsite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YaenusWebsite2" type="462c0819:PsiDirectoryNode" />
-              <item name="one-music" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YaenusWebsite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YaenusWebsite2" type="462c0819:PsiDirectoryNode" />
-              <item name="one-music" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YaenusWebsite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YaenusWebsite2" type="462c0819:PsiDirectoryNode" />
-              <item name="one-music" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="YaenusWebsite2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="one-music" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="YaenusWebsite2" type="b2602c69:ProjectViewProjectNode" />
@@ -254,6 +259,7 @@
       <workItem from="1542378508583" duration="3565000" />
       <workItem from="1542401255055" duration="5464000" />
       <workItem from="1542553394728" duration="6949000" />
+      <workItem from="1542614795516" duration="10373000" />
     </task>
     <task id="LOCAL-00001" summary="touchDrag &amp; mouseDrag removed">
       <created>1542555598903</created>
@@ -273,35 +279,61 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15978000" />
+    <option name="totallyTimeSpent" value="26351000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.17428268" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25520834" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.04229935" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -314,19 +346,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="pulse effect removed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/musica/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/musica/scss/style.scss">
+    <entry file="file://$PROJECT_DIR$/one-music/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="262" column="16" selection-start-line="262" selection-start-column="16" selection-end-line="262" selection-end-column="16" />
+        <state relative-caret-position="2023">
+          <caret line="119" column="9" lean-forward="true" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one-music/img/bg-img/a1.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/one-music/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10421">
+          <caret line="613" column="33" lean-forward="true" selection-start-line="613" selection-start-column="33" selection-end-line="613" selection-end-column="33" />
+        </state>
+      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/musica/scss/style.scss" />
     <entry file="file://$PROJECT_DIR$/one-music/css/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -391,29 +430,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ubesa/ubeasa-master/css/owl.carousel.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ubesa/ubeasa-master/js/owl.carousel.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ubesa/ubeasa-master/js/magnific-popup-options.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ubesa/ubeasa-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="430" column="13" selection-start-line="430" selection-start-column="13" selection-end-line="430" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/musica/js/active.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ubesa/ubeasa-master/index.html" />
+    <entry file="file://$PROJECT_DIR$/musica/js/active.js" />
     <entry file="file://$PROJECT_DIR$/one-music/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -421,13 +439,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/musica/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="90" lean-forward="true" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/musica/index.html" />
     <entry file="file://$PROJECT_DIR$/one-music/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -456,21 +468,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one-music/index.html">
+    <entry file="file://$PROJECT_DIR$/one-music/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="119" column="9" lean-forward="true" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="219">
+          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/one-music/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="613" column="33" lean-forward="true" selection-start-line="613" selection-start-column="33" selection-end-line="613" selection-end-column="33" />
+        <state relative-caret-position="29155">
+          <caret line="1715" selection-start-line="1715" selection-end-line="1715" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1886">
+          <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="835" column="33" lean-forward="true" selection-start-line="835" selection-start-column="33" selection-end-line="835" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
