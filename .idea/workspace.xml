@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68368df1-b50f-414a-ba13-6a63cc683a6a" name="Default" comment="pulse effect removed">
+    <list default="true" id="68368df1-b50f-414a-ba13-6a63cc683a6a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/one-music/contactOld.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/one-music/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/one-music/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-music/albums-store.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/albums-store.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-music/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-music/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-music/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/event.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/one-music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-music/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/one-music/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/one-music/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,34 +67,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/one-music/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="835" column="33" lean-forward="true" selection-start-line="835" selection-start-column="33" selection-end-line="835" selection-end-column="33" />
+            <state relative-caret-position="425">
+              <caret line="142" column="97" selection-start-line="142" selection-start-column="97" selection-end-line="142" selection-end-column="97" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/one-music/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1886">
-              <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/one-music/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
+            <state relative-caret-position="359">
+              <caret line="139" column="28" selection-start-line="139" selection-start-column="32" selection-end-line="142" selection-end-column="38" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,8 +97,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/one-music/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29155">
-              <caret line="1715" selection-start-line="1715" selection-end-line="1715" />
+            <state relative-caret-position="781">
+              <caret line="1724" column="9" selection-start-line="1724" selection-start-column="9" selection-end-line="1724" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -117,9 +116,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>transform</find>
-      <find>translate3d</find>
-      <find>openMobileMenu</find>
       <find>albumSlides</find>
       <find>autoplay</find>
       <find>flex-next</find>
@@ -147,6 +143,9 @@
       <find>classy-menu</find>
       <find>classynav</find>
       <find>fadeInUp</find>
+      <find>thinNa</find>
+      <find>thinN</find>
+      <find>festivals y</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Adrian Zurbrügg\PhpstormProjects\YaenusWebsite2</dir>
@@ -174,10 +173,11 @@
         <option value="$PROJECT_DIR$/one-music/css/animate.css" />
         <option value="$PROJECT_DIR$/one-music/js/active.js" />
         <option value="$PROJECT_DIR$/one-music/scss/style.scss" />
-        <option value="$PROJECT_DIR$/one-music/style.css" />
         <option value="$PROJECT_DIR$/one-music/blog.html" />
-        <option value="$PROJECT_DIR$/one-music/contact.html" />
+        <option value="$PROJECT_DIR$/one-music/news.html" />
+        <option value="$PROJECT_DIR$/one-music/style.css" />
         <option value="$PROJECT_DIR$/one-music/index.html" />
+        <option value="$PROJECT_DIR$/one-music/contact.html" />
       </list>
     </option>
   </component>
@@ -228,7 +228,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/one-music" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -259,7 +259,9 @@
       <workItem from="1542378508583" duration="3565000" />
       <workItem from="1542401255055" duration="5464000" />
       <workItem from="1542553394728" duration="6949000" />
-      <workItem from="1542614795516" duration="10373000" />
+      <workItem from="1542614795516" duration="10557000" />
+      <workItem from="1542639330755" duration="64000" />
+      <workItem from="1542718362148" duration="1376000" />
     </task>
     <task id="LOCAL-00001" summary="touchDrag &amp; mouseDrag removed">
       <created>1542555598903</created>
@@ -275,11 +277,25 @@
       <option name="project" value="LOCAL" />
       <updated>1542556490943</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Major Design adjustments">
+      <created>1542632670908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542632670908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Major Design adjustments (add missing fonts + pictures)">
+      <created>1542632806629</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542632806629</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26351000" />
+    <option name="totallyTimeSpent" value="27975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -288,13 +304,13 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.17428268" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.34006375" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25520834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25520834" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -343,16 +359,89 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="touchDrag &amp; mouseDrag removed" />
     <MESSAGE value="pulse effect removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="pulse effect removed" />
+    <MESSAGE value="Major Design adjustments" />
+    <MESSAGE value="Major Design adjustments (add missing fonts + pictures)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Major Design adjustments (add missing fonts + pictures)" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/one-music/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14365">
+          <caret line="845" column="49" selection-start-line="845" selection-start-column="49" selection-end-line="845" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/contactOld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29155">
+          <caret line="1715" selection-start-line="1715" selection-end-line="1715" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14365">
+          <caret line="845" column="49" lean-forward="true" selection-start-line="845" selection-start-column="49" selection-end-line="845" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/contactOld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29155">
+          <caret line="1715" selection-start-line="1715" selection-end-line="1715" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/one-music/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="9" lean-forward="true" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -373,22 +462,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one-music/js/bootstrap/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/one-music/js/bootstrap/popper.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="29" selection-end-line="4" selection-end-column="38" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,15 +477,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/index.php.html" />
-    <entry file="file://$PROJECT_DIR$/one-music/js/jquery/jquery-2.2.4.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -468,35 +536,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one-music/blog.html">
+    <entry file="file://$PROJECT_DIR$/one-music/img/bg-img/breadcumb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/contactOld.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
+        <state relative-caret-position="440">
+          <caret line="262" column="17" selection-start-line="239" selection-start-column="8" selection-end-line="262" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/one-music/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29155">
-          <caret line="1715" selection-start-line="1715" selection-end-line="1715" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/one-music/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1886">
-          <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+        <state relative-caret-position="781">
+          <caret line="1724" column="9" selection-start-line="1724" selection-start-column="9" selection-end-line="1724" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/one-music/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="835" column="33" lean-forward="true" selection-start-line="835" selection-start-column="33" selection-end-line="835" selection-end-column="33" />
+        <state relative-caret-position="425">
+          <caret line="142" column="97" selection-start-line="142" selection-start-column="97" selection-end-line="142" selection-end-column="97" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-music/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="139" column="28" selection-start-line="139" selection-start-column="32" selection-end-line="142" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

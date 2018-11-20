@@ -375,12 +375,7 @@ img {
       @media only screen and (max-width: 767px) {
         .header-area .oneMusic-main-menu .classy-navbar {
           height: 70px; } }
-@font-face {
-  font-family: thinNav;
-  src: url("fonts/futura-condensed-pt-cufonfonts/futura-pt-light-589a6e187563a.otf");
-}
       .header-area .oneMusic-main-menu .classy-navbar .classynav ul li a {
-        font-family: thinNav;
         font-style: normal;
         letter-spacing: 2px;
         font-weight: 500;
@@ -1714,6 +1709,19 @@ img {
   src: url("fonts/Amithen.ttf");
 }
 
+@font-face {
+  font-family: thinFont;
+  src: url("fonts/futura-condensed-pt-cufonfonts/futura-pt-light-589a6e187563a.otf");
+}
+
 .curlyFont{
   font-family: curlyFont;
+}
+
+.thinFont a, p, h2{
+  font-family: thinFont;
+}
+
+.noScroll{
+  overflow: hidden;
 }
